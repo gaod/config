@@ -6,6 +6,7 @@ macos-icon-ghost-color = black
 macos-icon-screen-color = black
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
+shell-integration-features = sudo
 theme = iTerm2 Smoooooth
 window-padding-balance = true
 window-save-state = always
