@@ -1,5 +1,6 @@
 copy-on-select = clipboard
 font-size = 16
+keybind = shift+enter=text:\n
 macos-icon = custom-style
 macos-icon-frame = beige
 macos-icon-ghost-color = black
